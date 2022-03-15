@@ -11,4 +11,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=HTML5)
 
-Follow Me
+## Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/TsigulskyNikita)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=Gmail)](tsigulskynikita@gmail.com)
+[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=VK)](https://vk.com/tsigulskynikita)
