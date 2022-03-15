@@ -1,6 +1,6 @@
-[![Header](https://github.com/Nikolinc/Nikolinc/blob/main/Assets/template.png?raw=true)
+![Header](https://github.com/Nikolinc/Nikolinc/blob/main/Assets/template.png?raw=true)
 
-About me
+## I'm a beginner frontend developer 
 
 Languages and Tools
 
