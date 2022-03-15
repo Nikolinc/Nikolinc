@@ -13,5 +13,11 @@
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/TsigulskyNikita)
-[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=Gmail)](tsigulskynikita@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=Gmail)](mailto:tsigulskynikita@gmail.com)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=VK)](https://vk.com/tsigulskynikita)
+
+
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nikolinc&hide_border=true&theme=redical)
+[![Ashutosh's github activity graph](https://github-readme-stats.vercel.app/api?username=Nikolinc&show_icons=true&theme=radical&include_all_commits=true))](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolinc&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikolinc"></img>
