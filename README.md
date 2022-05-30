@@ -5,11 +5,16 @@
 ## Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
-![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript) 
+![Node](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js) 
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React) 
+![Redux](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=Redux) 
+![WebPack](https://img.shields.io/badge/-WebPack-333?style=for-the-badge&logo=WebPack) 
+![CSS](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=HTML5)
+![Mysql](https://img.shields.io/badge/-Mysql-333?style=for-the-badge&logo=Mysql)
+
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/TsigulskyNikita)
