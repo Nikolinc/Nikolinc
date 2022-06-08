@@ -7,6 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript) 
 ![Node](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js) 
+![nestjs](https://img.shields.io/badge/-nest.js-333?style=for-the-badge&logo=nestjs) 
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React) 
 ![Redux](https://img.shields.io/badge/-Redux-333?style=for-the-badge&logo=Redux) 
 ![WebPack](https://img.shields.io/badge/-WebPack-333?style=for-the-badge&logo=WebPack) 
@@ -23,6 +24,6 @@
 
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nikolinc&hide_border=true&theme=redical)
-[![Ashutosh's github activity graph](https://github-readme-stats.vercel.app/api?username=Nikolinc&show_icons=true&theme=radical&include_all_commits=true))](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-stats.vercel.app/api?username=Nikolinc&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolinc&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikolinc"></img>
