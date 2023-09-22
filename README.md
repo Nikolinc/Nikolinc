@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nikolinc/Nikolinc/blob/main/Assets/template.png?raw=true)
 
-## I'm a beginner web developer
+## I'm a web developer
 
 ## Languages and Tools
 
