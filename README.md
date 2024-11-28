@@ -1,24 +1,6 @@
-![Header](https://github.com/Nikolinc/Nikolinc/blob/main/Assets/template.png?raw=true)
+
 
 ## I'm a web developer
-
-## Languages and Tools
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=JavaScript)
-![Solidity](https://img.shields.io/badge/-Solidity-333?style=for-the-badge&logo=Solidity)
-![Node](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js)
-![nestjs](https://img.shields.io/badge/-nest.js-333?style=for-the-badge&logo=nestjs)
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-333?style=for-the-badge&logo=Redux)
-![Effector](https://img.shields.io/badge/-Effector-333?style=for-the-badge&logo=effector)
-![WebPack](https://img.shields.io/badge/-WebPack-333?style=for-the-badge&logo=WebPack)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=HTML5)
-![Mysql](https://img.shields.io/badge/-Mysql-333?style=for-the-badge&logo=Mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
 
 ## Follow Me
 
