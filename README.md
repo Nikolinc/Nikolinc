@@ -6,7 +6,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/TsigulskyNikita)
 [![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=Gmail)](mailto:tsigulskynikita@gmail.com)
-[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=VK)](https://vk.com/tsigulskynikita)
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikolinc&theme=github_dark)
 
